@@ -1,6 +1,8 @@
 # WPEngine Client
 This will eventually be a vscode extention to help import/export databases from/to WPEngine sites. Right now, it's just a fork of cweijan's db client.
 
+If you're trying to figure out how to import/export databases from/to WPEngine, check out this repo's wiki.
+
 ## Database Client
 
 Database Client for Visual Studio Code. It supports databases MySQL/MariaDB, Microsoft SQL Server, PostgreSQL, SQLite, MongoDB, Redis, and ElasticSearch.
